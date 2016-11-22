@@ -7,7 +7,7 @@ int main(void)
 	int Dezimalzahl = 0;
 	int Hexadezimalzahl = 0;
 	int dummy = 0;
-	printf("Wollen Sie eine (O)ktal-, eine He(x)adezimal- oder eine (D)ezimal-Zahl eingeben: "); 
+	printf("Wollen Sie eine (O)ktal-, eine He(x)adezimal- oder eine (D)ezimal-Zahl eingeben: ");
 	scanf("%c", &cEingabe);
 	switch (cEingabe)
 	{
@@ -34,4 +34,5 @@ int main(void)
 	scanf("%d", &dummy);
 	return 0;
 	// hallo
+    // Hallo auch von Lukas :)
 }
