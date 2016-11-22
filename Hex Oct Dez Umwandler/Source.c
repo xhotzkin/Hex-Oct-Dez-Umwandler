@@ -33,5 +33,5 @@ int main(void)
 	printf("Fenster schliessen!");
 	scanf("%d", &dummy);
 	return 0;
-
+	// hallo
 }
